@@ -1,0 +1,26 @@
+{
+	"UseMemberIDs": true,
+	"UseTargetsList": false,
+
+	"SaveMemberIDs": true,
+	"SaveMemberNames": false,
+	
+	"Token": "",
+	"GuildID": "",
+	"Message": "message.txt",
+
+	"SecondsDelay": 5,
+	"Repetitions": 1,
+
+	"targets": [
+		"Example-Discord-ID-Here-1",
+		"Example-Discord-ID-Here-2",
+		"Example-Discord-ID-Here-3"
+	],
+	"exceptions": [
+		"DiscordID-To-Not-Send-To-1",
+		"DiscordID-To-Not-Send-To-2",
+   	"DiscordID-To-Not-Send-To-3"
+	
+	]
+}
