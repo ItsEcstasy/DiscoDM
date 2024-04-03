@@ -21,7 +21,7 @@ Once setup properly and ran, It will authenticate with Discord using your bot's 
 # Contact
 
 if you have any questions or need help contact me
-- Discord: itsjusnix
+- Discord: itsjusnix.
 - Telegram: ItsJusNix
 - Instagram: Capalot.Ecstasy
 
